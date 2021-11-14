@@ -4,14 +4,14 @@ class CountingSort
   maior = 1
   tamanho_arr = arr.size 
   
-'''  for x in 0..tamanho_arr do
+for x in 0..tamanho_arr do
     if arr.x > maior
      maior = valor
     end
   end
   
   puts maior
-'''
+
 puts arr[maior]
 
 end
