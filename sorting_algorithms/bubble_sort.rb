@@ -12,7 +12,7 @@ class BubbleSort
       end
     end
   end
-  
+
   puts arr
   
 end
